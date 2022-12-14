@@ -1,0 +1,11 @@
+10
+add b
+add a
+add r
+move l
+move l
+move l
+add f
+add o
+add o
+add _

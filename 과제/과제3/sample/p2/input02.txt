@@ -1,0 +1,11 @@
+1000 10
+alloc 50
+alloc 100
+free 0 50
+alloc 80
+alloc 30
+free 50 100
+alloc 200
+free 150 80
+alloc 200
+alloc 600

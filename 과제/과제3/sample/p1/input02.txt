@@ -1,0 +1,22 @@
+21
+add I
+add _
+add h
+add a
+add t
+add e
+erase
+erase
+erase
+erase
+add l
+add i
+add k
+add e
+add _
+add c
+add o
+add d
+add i
+add n
+add g

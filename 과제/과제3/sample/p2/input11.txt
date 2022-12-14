@@ -1,0 +1,1235 @@
+10 1234
+alloc 4
+alloc 9
+alloc 2
+alloc 5
+alloc 4
+alloc 8
+alloc 4
+alloc 7
+free 6 4
+free 0 4
+free 4 2
+alloc 10
+alloc 2
+alloc 7
+alloc 1
+free 0 10
+alloc 1
+free 0 1
+alloc 1
+alloc 10
+alloc 5
+alloc 4
+alloc 9
+alloc 5
+alloc 7
+alloc 7
+alloc 7
+free 1 5
+free 6 4
+alloc 9
+alloc 10
+alloc 8
+alloc 2
+free 1 9
+alloc 9
+free 0 1
+alloc 1
+alloc 2
+free 0 1
+free 1 9
+alloc 3
+alloc 2
+alloc 2
+free 0 3
+free 3 2
+alloc 3
+alloc 4
+alloc 1
+alloc 10
+alloc 6
+alloc 10
+free 4 1
+alloc 1
+alloc 10
+alloc 5
+alloc 2
+alloc 7
+alloc 6
+alloc 3
+alloc 1
+alloc 3
+alloc 7
+alloc 6
+alloc 3
+alloc 8
+free 4 1
+free 5 2
+alloc 1
+alloc 2
+alloc 4
+alloc 2
+free 7 3
+free 4 1
+alloc 1
+alloc 10
+alloc 2
+alloc 4
+alloc 10
+alloc 6
+alloc 1
+alloc 9
+alloc 1
+alloc 10
+alloc 6
+alloc 2
+free 9 1
+alloc 1
+alloc 3
+alloc 10
+alloc 3
+alloc 8
+alloc 2
+alloc 2
+alloc 2
+alloc 6
+free 7 2
+alloc 4
+alloc 4
+alloc 3
+alloc 3
+alloc 9
+alloc 2
+alloc 8
+alloc 10
+alloc 7
+alloc 6
+alloc 9
+alloc 3
+alloc 7
+alloc 9
+alloc 9
+alloc 4
+free 0 4
+alloc 1
+alloc 1
+alloc 1
+free 7 2
+alloc 9
+alloc 1
+alloc 1
+alloc 1
+alloc 6
+alloc 5
+free 8 1
+alloc 1
+alloc 4
+alloc 6
+alloc 5
+alloc 9
+alloc 7
+alloc 9
+alloc 5
+alloc 10
+alloc 3
+alloc 2
+free 8 1
+alloc 1
+alloc 2
+free 8 1
+alloc 6
+alloc 7
+alloc 9
+alloc 1
+alloc 1
+alloc 5
+alloc 3
+alloc 10
+alloc 6
+alloc 5
+alloc 2
+alloc 10
+alloc 9
+alloc 5
+alloc 2
+free 0 1
+alloc 1
+alloc 1
+alloc 4
+alloc 3
+alloc 2
+alloc 4
+alloc 5
+alloc 8
+alloc 6
+alloc 10
+alloc 2
+alloc 6
+alloc 6
+alloc 7
+alloc 8
+alloc 2
+alloc 7
+alloc 9
+alloc 9
+alloc 2
+alloc 8
+alloc 6
+alloc 7
+free 0 1
+alloc 1
+alloc 9
+free 5 2
+free 3 1
+alloc 1
+alloc 2
+alloc 7
+alloc 2
+alloc 3
+alloc 8
+alloc 9
+alloc 8
+alloc 10
+alloc 9
+alloc 3
+alloc 3
+alloc 4
+free 3 1
+alloc 1
+alloc 8
+alloc 1
+free 3 1
+alloc 1
+alloc 2
+alloc 7
+alloc 9
+alloc 3
+alloc 2
+alloc 5
+alloc 8
+alloc 2
+alloc 7
+alloc 9
+free 5 2
+alloc 2
+alloc 7
+free 8 1
+alloc 1
+free 8 1
+free 7 1
+free 5 2
+alloc 4
+alloc 7
+alloc 4
+alloc 10
+free 0 1
+alloc 1
+alloc 7
+alloc 3
+free 1 1
+alloc 3
+alloc 6
+alloc 1
+alloc 2
+alloc 6
+alloc 9
+alloc 4
+alloc 6
+alloc 5
+free 5 4
+free 2 1
+alloc 1
+alloc 2
+alloc 2
+alloc 9
+alloc 7
+alloc 2
+alloc 9
+alloc 3
+alloc 5
+alloc 10
+alloc 1
+alloc 5
+alloc 2
+free 2 1
+alloc 1
+alloc 7
+free 4 1
+alloc 6
+alloc 7
+free 9 1
+alloc 1
+alloc 4
+alloc 10
+alloc 1
+alloc 4
+alloc 8
+free 2 1
+free 9 1
+alloc 1
+free 1 1
+free 0 1
+alloc 5
+alloc 1
+free 4 1
+alloc 1
+alloc 1
+alloc 1
+alloc 1
+alloc 3
+alloc 6
+free 9 1
+free 1 1
+alloc 1
+alloc 1
+alloc 9
+free 1 1
+alloc 1
+free 3 1
+free 7 2
+alloc 3
+free 0 1
+free 1 1
+alloc 1
+alloc 2
+alloc 2
+alloc 5
+alloc 7
+alloc 6
+alloc 3
+free 9 1
+alloc 1
+alloc 9
+alloc 2
+alloc 5
+alloc 1
+alloc 3
+free 3 1
+alloc 1
+alloc 2
+alloc 8
+alloc 2
+alloc 9
+alloc 7
+free 3 1
+alloc 1
+free 2 1
+alloc 1
+alloc 3
+free 0 2
+alloc 2
+alloc 9
+alloc 7
+alloc 2
+alloc 5
+alloc 9
+alloc 6
+alloc 10
+alloc 1
+alloc 2
+alloc 10
+alloc 6
+alloc 3
+free 2 1
+alloc 1
+alloc 8
+free 5 2
+alloc 1
+alloc 1
+alloc 5
+alloc 4
+alloc 1
+alloc 3
+alloc 9
+alloc 4
+free 4 1
+alloc 10
+alloc 1
+alloc 3
+alloc 2
+alloc 4
+alloc 4
+alloc 7
+free 9 1
+alloc 1
+alloc 2
+alloc 3
+alloc 7
+alloc 4
+alloc 1
+alloc 6
+alloc 10
+alloc 5
+alloc 10
+alloc 5
+free 9 1
+alloc 1
+free 2 1
+alloc 1
+free 3 1
+free 4 1
+alloc 2
+alloc 1
+alloc 6
+alloc 7
+alloc 7
+free 7 2
+alloc 5
+alloc 2
+alloc 7
+alloc 7
+alloc 2
+alloc 8
+alloc 9
+alloc 8
+alloc 4
+alloc 4
+alloc 1
+free 6 1
+alloc 1
+alloc 2
+alloc 8
+alloc 1
+alloc 4
+free 3 2
+alloc 7
+alloc 2
+alloc 10
+alloc 8
+alloc 1
+alloc 2
+alloc 8
+free 9 1
+free 7 2
+free 5 1
+alloc 5
+alloc 1
+alloc 3
+alloc 10
+alloc 9
+alloc 2
+free 5 1
+free 0 2
+free 3 2
+alloc 8
+alloc 10
+alloc 2
+alloc 3
+alloc 3
+alloc 4
+free 0 2
+alloc 2
+alloc 8
+alloc 2
+alloc 2
+alloc 1
+alloc 6
+alloc 4
+alloc 10
+alloc 4
+alloc 9
+alloc 5
+alloc 7
+alloc 6
+alloc 3
+alloc 1
+alloc 6
+alloc 9
+alloc 4
+alloc 9
+alloc 7
+alloc 6
+alloc 4
+alloc 10
+free 2 1
+free 6 1
+alloc 1
+alloc 1
+alloc 4
+alloc 3
+alloc 2
+alloc 5
+alloc 7
+alloc 8
+alloc 8
+alloc 2
+alloc 8
+alloc 7
+alloc 8
+alloc 6
+alloc 4
+alloc 9
+alloc 8
+alloc 7
+free 0 2
+free 7 3
+alloc 2
+alloc 3
+alloc 8
+free 0 2
+alloc 1
+alloc 1
+alloc 2
+alloc 10
+alloc 6
+alloc 10
+alloc 6
+free 3 3
+alloc 2
+alloc 1
+alloc 3
+alloc 8
+alloc 9
+free 5 1
+alloc 10
+alloc 1
+alloc 7
+alloc 3
+alloc 4
+free 2 1
+alloc 1
+free 5 1
+alloc 1
+alloc 5
+alloc 6
+alloc 6
+alloc 5
+alloc 2
+free 7 3
+alloc 2
+alloc 2
+free 1 1
+alloc 7
+alloc 1
+alloc 1
+free 7 2
+alloc 3
+alloc 1
+alloc 1
+free 1 1
+alloc 1
+free 8 1
+alloc 8
+alloc 1
+alloc 1
+alloc 10
+alloc 3
+alloc 7
+free 3 2
+alloc 2
+alloc 8
+alloc 4
+alloc 3
+free 8 1
+alloc 8
+alloc 1
+alloc 2
+alloc 1
+alloc 6
+free 9 1
+alloc 1
+alloc 4
+alloc 4
+alloc 3
+alloc 2
+alloc 5
+alloc 3
+alloc 3
+alloc 10
+alloc 10
+free 1 1
+alloc 1
+free 2 1
+alloc 1
+free 2 1
+free 5 1
+alloc 1
+alloc 1
+alloc 6
+alloc 1
+alloc 1
+alloc 5
+free 9 1
+alloc 1
+alloc 5
+alloc 1
+alloc 10
+alloc 1
+alloc 6
+alloc 4
+alloc 10
+alloc 1
+alloc 10
+alloc 2
+alloc 1
+alloc 6
+alloc 4
+alloc 6
+alloc 8
+alloc 1
+free 6 1
+alloc 1
+alloc 1
+alloc 1
+free 7 1
+free 9 1
+alloc 1
+alloc 6
+alloc 1
+free 1 1
+alloc 1
+alloc 9
+alloc 7
+free 7 1
+alloc 1
+alloc 9
+alloc 3
+alloc 10
+free 5 1
+free 3 2
+alloc 2
+alloc 1
+alloc 6
+alloc 1
+alloc 5
+free 8 1
+alloc 4
+alloc 1
+alloc 8
+alloc 6
+alloc 1
+alloc 5
+alloc 5
+alloc 1
+alloc 3
+free 3 2
+alloc 1
+alloc 4
+alloc 1
+free 2 1
+free 9 1
+alloc 1
+alloc 1
+alloc 2
+free 0 1
+alloc 5
+alloc 1
+alloc 9
+alloc 7
+free 1 1
+free 4 1
+alloc 1
+alloc 1
+alloc 8
+alloc 9
+alloc 3
+alloc 8
+alloc 8
+alloc 6
+alloc 7
+alloc 9
+alloc 2
+alloc 1
+alloc 5
+alloc 3
+alloc 4
+alloc 7
+alloc 1
+alloc 10
+alloc 9
+alloc 5
+alloc 3
+alloc 7
+free 2 1
+free 1 1
+alloc 2
+alloc 2
+free 9 1
+alloc 1
+alloc 1
+free 3 1
+alloc 1
+alloc 10
+free 8 1
+free 5 1
+alloc 1
+alloc 1
+alloc 7
+alloc 8
+alloc 9
+free 1 2
+alloc 1
+alloc 1
+alloc 2
+alloc 3
+alloc 2
+alloc 1
+free 2 1
+alloc 1
+free 1 1
+alloc 1
+alloc 1
+alloc 5
+alloc 5
+alloc 10
+alloc 2
+alloc 4
+alloc 5
+alloc 7
+alloc 5
+alloc 3
+alloc 9
+free 4 1
+alloc 1
+free 9 1
+alloc 1
+free 2 1
+alloc 1
+alloc 3
+alloc 5
+alloc 3
+alloc 2
+free 3 1
+alloc 1
+alloc 2
+alloc 2
+alloc 10
+alloc 4
+alloc 6
+alloc 10
+alloc 9
+alloc 9
+alloc 4
+alloc 4
+alloc 7
+alloc 4
+alloc 8
+alloc 2
+free 2 1
+alloc 1
+free 9 1
+alloc 1
+alloc 3
+alloc 5
+alloc 1
+alloc 1
+alloc 6
+alloc 2
+alloc 10
+alloc 7
+alloc 4
+alloc 9
+alloc 1
+alloc 1
+alloc 4
+alloc 4
+alloc 2
+alloc 9
+free 8 1
+alloc 6
+alloc 7
+free 6 1
+alloc 1
+alloc 1
+alloc 9
+alloc 3
+alloc 4
+alloc 10
+alloc 4
+alloc 2
+free 2 1
+alloc 1
+alloc 8
+free 1 1
+alloc 1
+alloc 4
+free 8 1
+alloc 1
+free 6 1
+alloc 1
+alloc 5
+alloc 1
+free 8 1
+alloc 1
+alloc 3
+alloc 4
+alloc 3
+alloc 1
+alloc 10
+alloc 7
+free 8 1
+alloc 5
+alloc 4
+alloc 1
+alloc 4
+free 2 1
+alloc 8
+free 8 1
+free 3 1
+free 0 1
+alloc 5
+alloc 1
+alloc 1
+alloc 1
+alloc 1
+alloc 7
+alloc 6
+alloc 10
+alloc 5
+alloc 9
+alloc 4
+alloc 3
+free 8 1
+free 9 1
+free 6 1
+alloc 1
+alloc 2
+alloc 7
+alloc 8
+free 1 1
+alloc 2
+alloc 1
+alloc 8
+alloc 6
+free 2 1
+alloc 1
+alloc 4
+alloc 4
+alloc 6
+alloc 5
+alloc 6
+alloc 8
+alloc 2
+free 2 1
+alloc 1
+free 1 1
+free 0 1
+alloc 3
+alloc 2
+alloc 1
+alloc 8
+alloc 10
+alloc 7
+alloc 1
+alloc 3
+free 2 1
+alloc 1
+alloc 8
+alloc 5
+free 7 1
+alloc 1
+free 4 1
+free 7 1
+alloc 1
+free 8 2
+alloc 1
+alloc 2
+alloc 6
+alloc 2
+alloc 6
+alloc 1
+alloc 10
+free 7 1
+alloc 1
+alloc 6
+alloc 9
+alloc 3
+alloc 3
+alloc 7
+free 4 1
+free 3 1
+alloc 2
+alloc 1
+alloc 2
+alloc 2
+alloc 1
+alloc 3
+alloc 6
+alloc 5
+alloc 6
+alloc 5
+alloc 5
+alloc 8
+alloc 5
+alloc 6
+alloc 2
+alloc 9
+alloc 10
+alloc 5
+alloc 8
+alloc 5
+alloc 6
+free 2 1
+alloc 1
+alloc 10
+alloc 1
+free 2 1
+free 0 2
+free 6 1
+free 8 2
+alloc 1
+alloc 2
+alloc 2
+free 8 2
+alloc 1
+alloc 3
+alloc 1
+free 2 1
+free 0 2
+alloc 4
+alloc 3
+alloc 1
+alloc 6
+alloc 4
+alloc 8
+alloc 2
+alloc 9
+alloc 4
+alloc 4
+alloc 5
+alloc 4
+alloc 4
+alloc 7
+free 3 2
+alloc 2
+alloc 6
+alloc 8
+alloc 7
+alloc 1
+free 8 1
+alloc 1
+alloc 7
+free 5 1
+alloc 1
+alloc 9
+alloc 3
+alloc 9
+alloc 7
+alloc 7
+alloc 1
+alloc 3
+alloc 10
+alloc 3
+alloc 4
+alloc 2
+alloc 1
+free 8 1
+alloc 5
+free 3 2
+alloc 1
+free 9 1
+alloc 1
+free 9 1
+free 6 1
+alloc 1
+alloc 7
+alloc 9
+alloc 1
+alloc 5
+alloc 2
+alloc 1
+alloc 8
+free 5 1
+alloc 1
+alloc 2
+alloc 10
+free 6 1
+alloc 1
+alloc 3
+alloc 10
+alloc 8
+alloc 5
+free 9 1
+alloc 1
+alloc 10
+alloc 10
+alloc 9
+alloc 3
+free 6 1
+alloc 1
+alloc 8
+alloc 7
+alloc 4
+free 6 1
+free 9 1
+alloc 1
+free 0 3
+alloc 2
+alloc 1
+alloc 1
+alloc 3
+alloc 9
+free 0 2
+alloc 2
+alloc 9
+alloc 1
+alloc 6
+free 5 1
+alloc 1
+free 6 1
+alloc 3
+free 3 2
+alloc 1
+alloc 2
+free 6 1
+alloc 8
+free 5 1
+alloc 1
+alloc 1
+alloc 9
+free 2 1
+alloc 2
+free 0 2
+alloc 1
+alloc 1
+free 6 1
+free 3 2
+free 0 1
+free 8 1
+free 1 1
+alloc 4
+alloc 4
+alloc 1
+free 7 1
+free 0 4
+alloc 1
+alloc 1
+alloc 1
+free 8 1
+alloc 1
+alloc 4
+free 0 4
+alloc 1
+free 9 1
+free 5 1
+alloc 1
+alloc 5
+free 5 1
+alloc 1
+alloc 2
+free 1 2
+alloc 1
+alloc 2
+alloc 1
+alloc 5
+alloc 1
+alloc 10
+alloc 5
+free 7 1
+free 8 1
+alloc 8
+alloc 2
+alloc 6
+free 1 2
+alloc 2
+alloc 5
+alloc 1
+alloc 8
+alloc 9
+alloc 9
+free 5 1
+alloc 5
+alloc 1
+alloc 10
+free 5 1
+alloc 1
+alloc 9
+alloc 7
+alloc 8
+alloc 5
+alloc 10
+alloc 5
+alloc 2
+free 9 1
+alloc 1
+alloc 7
+alloc 6
+free 0 1
+alloc 10
+alloc 5
+alloc 1
+alloc 2
+alloc 5
+alloc 10
+alloc 9
+alloc 9
+free 1 2
+alloc 1
+alloc 1
+free 6 1
+free 2 1
+alloc 1
+alloc 1
+alloc 1
+alloc 10
+alloc 8
+alloc 4
+alloc 6
+alloc 7
+alloc 4
+alloc 2
+free 0 1
+alloc 2
+alloc 1
+alloc 2
+free 0 1
+alloc 1
+alloc 9
+alloc 1
+free 0 1
+free 7 2
+free 1 1
+alloc 1
+alloc 1
+alloc 9
+alloc 2
+alloc 9
+alloc 2
+alloc 3
+alloc 9
+alloc 3
+free 4 1
+alloc 9
+free 5 1
+free 2 1
+alloc 1
+alloc 8
+alloc 2
+alloc 8
+alloc 5
+alloc 10
+alloc 1
+alloc 5
+alloc 6
+alloc 8
+alloc 6
+alloc 5
+alloc 3
+alloc 4
+free 4 2
+alloc 2
+alloc 10
+free 4 2
+free 1 1
+alloc 1
+alloc 1
+alloc 1
+alloc 6
+alloc 9
+alloc 7
+alloc 10
+alloc 9
+alloc 3
+free 1 1
+alloc 1
+free 9 1
+free 2 1
+free 5 1
+alloc 1
+alloc 1
+alloc 7
+alloc 1
+alloc 4
+alloc 4
+free 9 1
+alloc 1
+alloc 2
+free 9 1
+alloc 1
+alloc 3
+alloc 10
+alloc 8
+free 6 1
+free 4 1
+alloc 1
+free 0 1
+alloc 1
+alloc 1
+alloc 2
+alloc 9
+alloc 8
+alloc 9
+alloc 9
+alloc 4
+alloc 7
+alloc 9
+free 7 2
+alloc 1
+alloc 1
+alloc 1
+free 3 1
+free 7 1
+free 9 1
+alloc 7
+alloc 1
+alloc 1
+alloc 1
+free 0 1
+free 7 1
+alloc 1
+alloc 1
+alloc 6
+free 1 1
+alloc 1
+alloc 2
+alloc 1
+free 9 1
+alloc 1
+free 1 1
+alloc 9
+alloc 2
+alloc 1
+free 4 1
+free 3 1
+alloc 1
+free 0 1
+free 6 1
+alloc 1
+alloc 1
+alloc 1
+alloc 2
+alloc 7
+alloc 9
+alloc 7
+free 8 1
+alloc 1
+alloc 2
+alloc 8
+alloc 7
+alloc 9
+alloc 2
+alloc 4
+alloc 10
+alloc 9
+alloc 1
+alloc 3
+alloc 3
+alloc 10
+alloc 5
+alloc 6
+alloc 9
+free 8 1
+alloc 8
+alloc 6
+alloc 2
+alloc 1
+alloc 2
+alloc 2
+alloc 1
+alloc 8
+alloc 6
+alloc 8
+alloc 5
+alloc 2
+alloc 3
+free 3 1
+alloc 1
+alloc 1
+alloc 8
+free 0 1
+alloc 1
+alloc 7
+alloc 10
+alloc 1
+alloc 8
